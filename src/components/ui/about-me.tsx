@@ -3,7 +3,7 @@ import { FlipWords } from "../ui/flip-words";
 
 
 export function FlipWordsDemo() {
-  const words = ["a Deep Thinker","an Indie hacker", "a Versatile Engineer", "an Esotericist", "a First principles thinker","an Aspiring Stoic"];
+  const words = ["a Deep Thinker","an Indie Hacker", "a Versatile Engineer", "an Esotericist", "a First Principles Thinker","an Aspiring Stoic"];
 
   return (
     <div className="justify-center items-center px-4">
